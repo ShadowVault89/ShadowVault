@@ -1,0 +1,9 @@
+{
+  "name": "shadow-vault",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shadow Vault marketplace with local demo authentication",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
